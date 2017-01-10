@@ -1,5 +1,6 @@
 #include <stdio.h> 
 int main(void) 
+
     {  
 
 	printf("Hello! This is Prasanthi\n\n"); 
@@ -8,9 +9,7 @@ int main(void)
         printf("Hello This is Aswani\n\n"); 
         printf("hello! iam pallavi\n\n");       
         printf("Hello! This is Sravani\n\n");
-            return(0);
-
-
-     }
-
+        printf("Hello! This is Gautam\n\n"); 
+	return 0; 
+}
 
