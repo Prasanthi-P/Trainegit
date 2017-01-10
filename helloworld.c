@@ -5,6 +5,7 @@ int main(void)
 <<<<<<< HEAD
 	printf("Hello! This is Prasanthi\n\n"); 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	printf("Hello! Savari.., This is Manasa\n");
        
 =======
@@ -17,6 +18,13 @@ int main(void)
 =======
         printf("hello! iam pallavi\n\n");       
 >>>>>>> adb0f3f4ffebdd5c3533eb027e372c5e16a73a33
-	return 0; 
+
 >>>>>>> 7200589a362c650db56c9486cd3ff017bc2c65e6
+=======
+       printf("Hello! This is Sravani\n\n");
+       return(0);
+
+>>>>>>> c7ee0c22b669fdc1daa35287f69b516c7d5408f1
 }
+
+
