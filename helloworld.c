@@ -10,6 +10,7 @@ int main(void)
         printf("hello! iam pallavi\n\n");       
         printf("Hello! This is Sravani\n\n");
         printf("Hello! This is Gautam\n\n"); 
+        puts("Hi this Mustafa");
 	return 0; 
 }
 
